@@ -1,0 +1,6114 @@
+[
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Notion2Sheets"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create the vercel app"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Notion2Sheets"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Build notion to sheets"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Watch Loki with Mom"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-19",
+        "end": "2023-10-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Research "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Run 5K"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-12",
+        "end": "2023-11-12",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Have version 1.0 of GoogleRSS developed"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-16",
+        "end": "2023-07-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add folders"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-12-01",
+        "end": "2023-12-01",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Move content from the app mymind (Medium Priority)"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-05",
+        "end": "2023-08-05",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Check composer.trader to see if account is liquidated "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-17",
+        "end": "2023-07-24",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Kami + Fam"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-15",
+        "end": "2023-07-15",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Switch all numbers off the 614 number "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-14",
+        "end": "2023-11-14",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Followed up with Airbnb"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-23",
+        "end": "2023-07-23",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get picture book for kam"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-29",
+        "end": "2023-10-29",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Halloween Party 10PM"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-03",
+        "end": "2023-07-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Save resuls to the sidebar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-26",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Basic Layout"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "In progress"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-08",
+        "end": "2023-07-08",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sprint 1 - Google RSS v1.0"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Launch GoogleRSS"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-20",
+        "end": "2023-11-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Tell mom to add me to insurance"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create compelling problems card with call to action"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fix Notion Calendar Bug"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-27",
+        "end": "2023-10-27",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ran 5k"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create list of searches"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-06",
+        "end": "2023-07-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get Chase travel card"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-08",
+        "end": "2023-07-08",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Goals"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get Version Google.RSS 1.0 Up Usable "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-19",
+        "end": "2023-09-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Connect notion API and Open AI API"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-06",
+        "end": "2023-07-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create scripts for Book Organization"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-13",
+        "end": "2023-06-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fly to Japan"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create compelling how this works card with call to action"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-12",
+        "end": "2023-07-12",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Chase Card Appt. "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-06",
+        "end": "2023-09-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Meet Lila? "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-04",
+        "end": "2023-07-04",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Saved results to database"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-10",
+        "end": "2023-11-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Do Ayuhawaska"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Topbar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-07",
+        "end": "2023-07-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Save results in folder"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-18",
+        "end": "2023-07-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Setup autopay for Neal"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create authenticated routes in Mongo DB"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-19",
+        "end": "2023-10-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Message Margo"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-13",
+        "end": "2023-06-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Cancel Webflow"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-09",
+        "end": "2023-09-09",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Finish GoogleRSS"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-27",
+        "end": "2023-11-27",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "See Hollywood sign"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-04",
+        "end": "2023-07-04",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "LiveScan"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-12-15",
+        "end": "2023-12-15",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Re top up your Chase Account"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Airbnb 1"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Meet Ami"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Searchbar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-28",
+        "end": "2023-11-28",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Last day of Apple Care"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-20",
+        "end": "2023-07-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Handoff returned items"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-18",
+        "end": "2023-09-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Midnight runners"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-04",
+        "end": "2023-06-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "AlexAI"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create MidJourney Tutorial Videos "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-20",
+        "end": "2023-09-21",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Have saved page IDs"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-03",
+        "end": "2023-07-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Got Audible refund! "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-19",
+        "end": "2023-07-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Return items for this day"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add to current page"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-13",
+        "end": "2023-11-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Have a working feed page"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fix login - Folder path"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Clean up Notion pages"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Build front end"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-05",
+        "end": "2023-09-05",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Midnight runners"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Load results"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Reconnect to API "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create compelling headline with call to action"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create Automation Service"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create a saved search into MongoDB"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-03",
+        "end": "2023-07-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "The number to call and verify that you are you and you want them to close the account is: 833-RMA-TOLL (833-762-8655)"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-05-31",
+        "end": "2023-06-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Trip to Kaohsiung"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-26",
+        "end": "2023-10-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Completed API Keys in Menu"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-27",
+        "end": "2023-10-27",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Made travel plans for November"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-12-02",
+        "end": "2023-12-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Figure out what to do with Mint"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create compelling solution card with call to action"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-20",
+        "end": "2023-11-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Finish passport application from "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-03",
+        "end": "2023-07-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Saving queries to the database "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-19",
+        "end": "2023-10-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Run 10k "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-13",
+        "end": "2023-10-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Most important day ever: Sister’s Wedding"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ability to mix content on folder click"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-03",
+        "end": "2023-10-05",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create Menu with Ability to save IDs"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-24",
+        "end": "2023-09-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Goals"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Week 39"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Feed"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Game Night"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-29",
+        "end": "2023-10-29",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Run 5k"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-16",
+        "end": "2023-07-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Launch Website"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-20",
+        "end": "2023-11-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fix Macbook M1"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-23",
+        "end": "2023-09-23",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Midnight runners run ! "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-18",
+        "end": "2023-10-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Organize digital life"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Added pictures to all notion vision"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-07",
+        "end": "2023-11-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Finished Sidebar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sidebar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "In progress"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create a professional landing pages"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Finish Authentication"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "#America things"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-10",
+        "end": "2023-11-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ayahuaska"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Redo Mail Forwarding"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-03",
+        "end": "2023-07-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Stop automated trading (liquidated) "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Schedule AIRBNB after July 7th? "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-16",
+        "end": "2023-07-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add drag and drop"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-01",
+        "end": "2023-08-01",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Chase meeting 3:30 - 1380 W Shaw Ave, Fresno, CA 93711"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-14",
+        "end": "2023-11-14",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Decide on Ayahausca round 2 "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-13",
+        "end": "2023-08-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": null
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ami is back"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "In progress"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-16",
+        "end": "2023-09-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create V1 of digital life assistant"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-19",
+        "end": "2023-09-23",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create chrome extension"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-16",
+        "end": "2023-07-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Make a book for Kami"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-22",
+        "end": "2023-07-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Trip w/ Neal"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-21",
+        "end": "2023-06-21",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Results returned in console"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Build out database tool"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-07",
+        "end": "2023-07-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Launch to website"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-05",
+        "end": "2023-09-05",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Palermo Nightlife Experience by Experience Baires - "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-06",
+        "end": "2023-07-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Connecting to the Database"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create connection with Mongo DB"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-06",
+        "end": "2023-09-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "COWORKING ITINERANTE "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-09",
+        "end": "2023-08-09",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Reenroll back into Autopay for Amazon"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-10",
+        "end": "2023-11-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Buy ticket "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-31",
+        "end": "2023-10-31",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Last day for Phone carrier "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-26",
+        "end": "2023-10-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Organize digital life"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Setup Obsidian Graph View System"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-25",
+        "end": "2023-07-25",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Prepare everything to be returned "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-22",
+        "end": "2023-07-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Make picture book for Kami "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "In progress"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create product flow wireframe"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Save database to SQL in memory"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-09",
+        "end": "2023-11-09",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fly to tarapoto"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-01",
+        "end": "2023-09-01",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Dinner with Stephanie"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-24",
+        "end": "2023-09-24",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": null
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get haircut"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Build out Notion To Sheets Service"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-22",
+        "end": "2023-08-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": " Midnight runners"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-09",
+        "end": "2023-07-11",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sprint extension"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-13",
+        "end": "2023-11-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Clickable saved searches"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-20",
+        "end": "2023-11-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Message Airbnb"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-06",
+        "end": "2023-07-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Follow up with IMMI"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-28",
+        "end": "2023-10-28",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Find facepaint for today"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-26",
+        "end": "2023-10-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ran 5K "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-10",
+        "end": "2023-07-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Follow up on RMA toll license plate conversation "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-17",
+        "end": "2023-10-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Perú vs Argentina - Giani"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-31",
+        "end": "2023-08-31",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Respond to Elizabeth "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sprint 3"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-26",
+        "end": "2023-10-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Completed Menu Template for NotionGPT"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-28",
+        "end": "2023-10-28",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ran 5K "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-20",
+        "end": "2023-10-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Ran 5k"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-29",
+        "end": "2023-10-29",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Updated the Bot formatting for the chat page"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-28",
+        "end": "2023-10-28",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Cancel sending automatic to NEAL Phone"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sidebar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-10",
+        "end": "2023-11-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Love"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Talk to Ami"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-18",
+        "end": "2023-11-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Filled out flight information"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-13",
+        "end": "2023-11-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fix the Saved Search Bug"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-08",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "SF? ~~ Schedule events (what do I want to accomplish? "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-01",
+        "end": "2023-07-01",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Logo"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-02",
+        "end": "2023-07-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create Sidebar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-19",
+        "end": "2023-09-23",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add ability to save pages"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-08",
+        "end": "2023-11-08",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Spend time with Marjorie"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-26",
+        "end": "2023-09-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Goals"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Daily plan"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Message Jen with voice message"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-07",
+        "end": "2023-07-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Connect Website to Vercel"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "In progress"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create folder"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-27",
+        "end": "2023-10-27",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Finish top menu for Notion GPT"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-12-02",
+        "end": "2023-12-02",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Go to SF to connect with Ami"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-29",
+        "end": "2023-08-29",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Fitness"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Midnight runners "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-24",
+        "end": "2023-07-29",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Find place to stay"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-13",
+        "end": "2023-07-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create a delete search into Mongo DB"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-22",
+        "end": "2023-07-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sprint 2 - Google RSS v1.0"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-10",
+        "end": "2023-10-10",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Call with Bruno"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-20",
+        "end": "2023-11-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Figure out plans for SF (Where to stay, etc) "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Authentication"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-03",
+        "end": "2023-09-03",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Last day in Costa Rica"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-08-31",
+        "end": "2023-08-31",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Board game meetup"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-19",
+        "end": "2023-10-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Created landing page prototype "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-16",
+        "end": "2023-07-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Connect domain name"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Read the current page"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Misc updates"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-08",
+        "end": "2023-11-08",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Prepare for Tarapoto"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-11",
+        "end": "2023-06-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Travel to East side of Island"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-18",
+        "end": "2023-06-25",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Japan? "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-07",
+        "end": "2023-09-07",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Spanglish Thursday Language Exchange Palermo - Every Thursday - "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-05-28T00:00:00.000-03:00",
+        "end": "2023-05-28T00:00:00.000-03:00",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Talk to Nikita"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-26",
+        "end": "2023-07-26",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Pick up all Amazon items "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-17",
+        "end": "2023-10-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create compelling headline image "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-07-06",
+        "end": "2023-07-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "High Prio"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get Amazon locker items"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-16",
+        "end": "2023-09-16",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "figure out travel plan.. "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-18",
+        "end": "2023-10-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Landing Pages"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Create all components"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-06",
+        "end": "2023-09-06",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Created a folder with delete reorder "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-16",
+        "end": "2023-09-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Build all API tools"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-22",
+        "end": "2023-06-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Display links in accruactly in Feed"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-18",
+        "end": "2023-11-18",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "What would it take? "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-28",
+        "end": "2023-10-28",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Swapped out the environmental values for menu values "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add logout button "
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-22",
+        "end": "2023-06-22",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get results from Searchbar"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-30",
+        "end": "2023-06-30",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Backend"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Additional Features"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-17",
+        "end": "2023-11-17",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Reminder to Sister to bring citizenship"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-09-17",
+        "end": "2023-09-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "NotionGPT"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Read current database"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-19",
+        "end": "2023-11-19",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Misc"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Cancelled Disney +"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-13",
+        "end": "2023-11-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Fixed UI so twitter looks nicer"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Not started"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": null,
+        "end": null,
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Add mixer options?"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-11-13",
+        "end": "2023-11-13",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Sidebar is now fixed"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-06-21",
+        "end": "2023-06-21",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "GoogleRSS"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Get Google Search Credentials"
+      }
+    }
+  ],
+  [
+    {
+      "type": "status",
+      "key": "Completion Status",
+      "value": {
+        "name": "Done"
+      }
+    },
+    {
+      "type": "date",
+      "key": "Due date",
+      "value": {
+        "start": "2023-10-20",
+        "end": "2023-10-20",
+        "time_zone": null
+      }
+    },
+    {
+      "type": "select",
+      "key": "Area",
+      "value": {
+        "name": "Travel"
+      }
+    },
+    {
+      "type": "title",
+      "key": "Task",
+      "value": {
+        "content": "Researched Ayuhawaska in Peru"
+      }
+    }
+  ]
+]
