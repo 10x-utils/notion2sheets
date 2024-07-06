@@ -36,15 +36,9 @@ async function uploadFileToOneDrive() {
     });
 
     const fileName = path.join(__dirname, "notiondb.csv");
-    const fileContents = fs.readFileSync(fileName);
 
-    fs.readFile(fileName, "utf8", function (err, data) {
-      if (err) {
-        console.error("Error reading file", err);
-      } else {
-        console.log("File content:", data);
-      }
-    });
+    // Read the file just before the upload
+    const fileContents = fs.readFileSync(fileName);
 
     const driveItem = await client
       .api(`/users/${userId}/drive/root:/${path.basename(fileName)}:/content`)
@@ -55,7 +49,5 @@ async function uploadFileToOneDrive() {
     console.error("Error uploading file to OneDrive", error);
   }
 }
-
-uploadFileToOneDrive();
 
 module.exports.execute = uploadFileToOneDrive;

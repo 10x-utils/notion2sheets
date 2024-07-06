@@ -1,0 +1,13 @@
+.
+├── __test__
+│   └── azure_test.js
+├── jobs
+│   ├── 01_call_notion_db.js
+│   ├── 02_extract_db_data.js
+│   ├── 03_create_csv.js
+│   └── 04_upload_csv_to_onedrive.js
+├── notionToCsv.js
+├── package-lock.json
+└── package.json
+
+3 directories, 8 files

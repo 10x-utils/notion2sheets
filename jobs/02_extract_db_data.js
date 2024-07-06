@@ -85,6 +85,27 @@ function extractData(data, multiSelectValuesForKey) {
         };
         break;
 
+      case "formula":
+        // Handle different types of formula results
+        switch (prop.formula.type) {
+          case "boolean":
+            valueObj = { boolean: prop.formula.boolean };
+            break;
+          case "date":
+            valueObj = {
+              start: prop.formula.date.start,
+              end: prop.formula.date.end,
+            };
+            break;
+          case "number":
+            valueObj = { number: prop.formula.number };
+            break;
+          case "string":
+            valueObj = { string: prop.formula.string };
+            break;
+        }
+        break;
+
       default:
         continue;
     }
@@ -105,15 +126,15 @@ function extractData(data, multiSelectValuesForKey) {
   return result;
 }
 
-async function processJsonData() {
+async function processJsonData(dbEnvironmentName) {
   try {
+    const dirPath = path.join(__dirname, dbEnvironmentName);
     const jsonString = await fs.promises.readFile(
-      path.join(__dirname, "notion_database_data.json"),
+      path.join(dirPath, `notion_database_data.json`),
       "utf8"
     );
     const dataList = JSON.parse(jsonString);
 
-    // First pass: collect unique multi_select values for each key
     let multiSelectValuesForKey = {};
     dataList.forEach((data) => {
       for (let key in data.properties) {
@@ -131,7 +152,6 @@ async function processJsonData() {
       }
     });
 
-    // Second pass: process the data
     const allResults = dataList.map((data) =>
       extractData(data, multiSelectValuesForKey)
     );
@@ -142,17 +162,18 @@ async function processJsonData() {
   }
 }
 
-async function execute() {
-  const allResults = await processJsonData();
+async function execute(dbEnvironmentName) {
+  const allResults = await processJsonData(dbEnvironmentName);
   if (allResults) {
+    const dirPath = path.join(__dirname, dbEnvironmentName);
+    const filePath = path.join(dirPath, `notion_database_data_extracted.json`);
     await fs.promises.writeFile(
-      "notion_database_data_extracted.json",
+      filePath,
       JSON.stringify(allResults, null, 2),
       "utf8"
     );
-    console.log("Data successfully written to output_data.json");
+    console.log(`Data successfully written to ${filePath}`);
   }
 }
 
-// Export the execute function
 module.exports.execute = execute;

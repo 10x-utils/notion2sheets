@@ -1,0 +1,32 @@
+name: Run notionToCsv script
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # This will run the script every day at 6 AM
+  workflow_dispatch: # This line enables manual triggers
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env: # Define environment variables here
+      NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+      NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+      USERID: ${{ secrets.USERID }}
+      TENENTID: ${{ secrets.TENENTID }}
+      CLIENTID: ${{ secrets.CLIENTID }}
+      CLIENTSECRET: ${{ secrets.CLIENTSECRET }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "21.2.0" # Specify the Node.js version here
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run script
+        run: node notionToCsv.js

@@ -30,15 +30,18 @@ async function queryDatabase(notion, databaseId) {
 }
 
 // Function to execute the database query and save the results to a JSON file
-async function execute() {
+async function execute(dbEnvironmentName) {
+  console.log("dbEnvironmentName", dbEnvironmentName);
   console.log("NOTION_API_KEY:", process.env.NOTION_API_KEY);
-  console.log("NOTION_DATABASE_ID:", process.env.NOTION_DATABASE_ID);
+  const databaseId = process.env[dbEnvironmentName];
+  console.log(`Database ID for ${dbEnvironmentName}:`, databaseId);
 
   const notion = new Client({ auth: process.env.NOTION_API_KEY });
-  const databaseId = process.env.NOTION_DATABASE_ID;
   const allData = await queryDatabase(notion, databaseId);
   if (allData) {
-    const filePath = path.join(__dirname, "notion_database_data.json");
+    const dirPath = path.join(__dirname, dbEnvironmentName);
+    await fs.promises.mkdir(dirPath, { recursive: true });
+    const filePath = path.join(dirPath, `notion_database_data.json`);
     await fs.promises.writeFile(filePath, JSON.stringify(allData, null, 2));
     console.log(`Data has been written to ${filePath}`);
   }
